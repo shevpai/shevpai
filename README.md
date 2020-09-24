@@ -8,7 +8,7 @@
 - I'm using UI-frameworks such as: *Bootstrap, Materialize, Material UI*
 - I'm currently learning Angular/Node.js(*Express*)/React Native
 - My current goal is to find a job as Junior Frontend/FullStack Developer
-- ⚡ I like to solve complex tasks and learn new stuff ⚡
+- ⚡ I like to solve complex tasks and learn new stuff ⚡<br /><br />
 
 ### Languages and Tools:  
 
