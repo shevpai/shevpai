@@ -2,7 +2,7 @@
 
 ## I'm beginner Developer  
 
-- I have strong knowledge ES5/ES6+, react-redux
+- I have strong knowledge in JavaScript(ES5/ES6+) and React
 - Also, I'm familiar with MERN stack and some JS libraries such as *RxJS, Lodash* etc
 - Have experience in configure projects using *Webpack* and writing unit tests with *Jest*
 - I'm using UI-frameworks such as: *Bootstrap, Materialize, Material UI*
@@ -34,10 +34,14 @@
 
 [<img align="left"  alt="Bash"  width="32px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"  />][bash]
 
-[<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]<br />
 
 
-[<img align="left"  alt="SoundCloud"  width="32px"  src="https://simpleicons.org/icons/soundcloud.svg"  />][SoundCloud]
+### Contacts:
+
+[<img align="left" alt="shevpai | Twitter" width="32px" src="https://img.icons8.com/fluent/2x/twitter.png" />][Twitter]
+
+[<img align="left"  alt="SoundCloud"  width="32px"  src="https://img.icons8.com/color/2x/soundcloud.png"  />][SoundCloud]
 
 
 [javaScript]: https://github.com/search?q=javascript
@@ -51,4 +55,6 @@
 [mongodb]: https://github.com/search?q=mongodb
 [github]: https://github.com
 [bash]: https://github.com/search?q=bash
+
+[Twitter]: https://twitter.com/yesiamkira
 [SoundCloud]: https://soundcloud.com/shevpai
