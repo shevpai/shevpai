@@ -41,6 +41,8 @@
 
 [<img align="left" alt="shevpai | Twitter" width="32px" src="https://img.icons8.com/fluent/2x/twitter.png" />][Twitter]
 
+[<img align="left" alt="shevpai | Twitter" width="32px" src="https://img.icons8.com/fluent/2x/linkedin.png" />][LinkedIn]
+
 [<img align="left"  alt="SoundCloud"  width="32px"  src="https://img.icons8.com/color/2x/soundcloud.png"  />][SoundCloud]
 
 
@@ -57,4 +59,5 @@
 [bash]: https://github.com/search?q=bash
 
 [Twitter]: https://twitter.com/yesiamkira
+[LinkedIn]: https://www.linkedin.com/in/shevpai
 [SoundCloud]: https://soundcloud.com/shevpai
