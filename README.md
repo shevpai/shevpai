@@ -6,7 +6,7 @@
 - Also, I'm familiar with MERN stack and some JS libraries such as *RxJS, Lodash* etc
 - Have experience in configure projects using *Webpack* and writing unit tests with *Jest*
 - I'm using UI-frameworks such as: *Bootstrap, Materialize, Material UI*
-- I'm currently learning Angular/Node.js(*Express*)/React Native
+- I'm currently learning Node.js/Typescript
 - My current goal is to find a job as Junior Frontend/FullStack Developer
 - ⚡ I like to solve complex tasks and learn new stuff ⚡<br /><br />
 
