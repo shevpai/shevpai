@@ -1,13 +1,4 @@
-### Hi there, I'm Alex  
-
-## I'm beginner Developer  
-
-- I have strong knowledge in JavaScript(ES5/ES6+), Typescript, Node.js and React
-- Also, I'm familiar with MERN stack and some JS libraries such as *Redux, MobX, Lodash* etc
-- Have experience in configure projects using *Webpack* and writing unit tests with *Jest*
-- I'm using UI-frameworks such as: *Bootstrap, Materialize*
-- I'm currently learning Express&MongoDB
-- ⚡ I like to solve complex tasks and learn new stuff ⚡<br /><br />
+### Hi there, I'm Alex  => Node.js Developer
 
 ### Languages and Tools:  
 
